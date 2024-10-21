@@ -24,7 +24,7 @@ int main()
     g[0].adding_a_rib(1, 2);
     g[0].adding_a_rib(2, 0);
 
-    g[1].adding_a_rib(0, 1);
+    g[1].adding_a_rib(2, 1);
     g[1].adding_a_rib(1, 2);
     g[1].adding_a_rib(2, 0);
     g[0].isomorphism(g[1]); // Проверка изоморфизма
